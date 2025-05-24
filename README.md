@@ -1,4 +1,4 @@
-# Reinforcement Learning Control of a Physical Robot Device for Assisted Human Level Ground Walking without a Simulator (ICML2025-AIP)
+# Reinforcement Learning Control of a Physical Robot Device for Assisted Human Walking without a Simulator (ICML2025-AIP)
 Offline to online dHDP for soft exosuit personalized control
 
 **[Reinforcement Learning Control of a Physical Robot Device for Assisted Human Level Ground Walking without a Simulator](https://icml.cc/virtual/2025/poster/43549)**
