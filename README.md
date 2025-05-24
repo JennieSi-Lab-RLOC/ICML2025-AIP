@@ -31,3 +31,23 @@ See other required packages:
 ## Online training
 
 Interaction with bottom control files and sensor reading files.
+
+## Data
+
+Offline Sensor data ```gait_data_6_22_percent.csv```
+
+  data[0:5]:
+  1. t_A
+  2. d_A
+  3. t_C
+  4. d_C
+  5. theta
+     
+Offline MoCap data ```gait_data_6_22_percent.csv```
+
+  data[5:10]:
+  1. t_A
+  2. d_A
+  3. t_C
+  4. d_C
+  5. theta
